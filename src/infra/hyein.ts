@@ -1,0 +1,130 @@
+import { WallpaperItem } from '@/domain';
+
+export const hyein: WallpaperItem[] = [
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/c/ca/NewJeans_Hyein_Supernatural_concept_photo_1.png/revision/latest/scale-to-width-down/1000?cb=20240510053122',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/6/69/NewJeans_Hyein_2024_Season%27s_Greetings_concept_photo.png/revision/latest/scale-to-width-down/1000?cb=20231129033442',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/12/NewJeans_Hyein_Supernatural_concept_photo_2.png/revision/latest/scale-to-width-down/1000?cb=20240510053123',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/5/5f/NewJeans_Hyein_Supernatural_concept_photo_3.png/revision/latest/scale-to-width-down/1000?cb=20240510053124',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/c/ca/NewJeans_Hyein_Supernatural_concept_photo_13.png/revision/latest/scale-to-width-down/1000?cb=20240620153226',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/d/d9/NewJeans_Hyein_Supernatural_concept_photo_11.png/revision/latest/scale-to-width-down/1000?cb=20240621163708',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/fc/NewJeans_Hyein_Supernatural_concept_photo_6.png/revision/latest/scale-to-width-down/1000?cb=20240510053108',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/f6/Lee_Hyein_Little_the_Look_of_The_Year_%282019%29_%284%29.png/revision/latest?cb=20220830094602',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/1/13/Lee_Hyein_Little_the_Look_of_The_Year_%282019%29_%286%29.png/revision/latest?cb=20220830094733',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/6/66/NewJeans_Hyein_SPUR_Magazine_%28March_2023%29_%281%29.png/revision/latest?cb=20230528004806',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/f/f3/NewJeans_Hyein_%28January_2023%29_%281%29.png/revision/latest?cb=20230528003749',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://static.wikia.nocookie.net/kpop/images/d/de/NewJeans_Hyein_Vogue_Korea_%28April_2023%29_%288%29.webp/revision/latest/scale-to-width-down/1000?cb=20230620140853',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/2c/09/8d/2c098d08fe9d11d92e9022118c4a59b1.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/6b/d9/2b/6bd92bcff777bf2cf5d25538dad6fec4.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/1e/76/69/1e7669d7f33057c467af8098f632a363.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/40/cf/53/40cf5333f7e9ab8ba4ec773f93884a30.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/42/06/9c/42069c3b236affc26a4bd092fec8c2c0.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/6b/be/d3/6bbed39244013a38f7d7b6222395ea5e.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/ba/b5/73/bab573e5e78652872117351a74dc8fc0.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/ad/63/ba/ad63ba4248d7a43dad4741e94416226b.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+  {
+    name: 'Hyein',
+    link: 'https://i.pinimg.com/736x/1f/cf/85/1fcf85e7ca1502d87240c5d4a70ebbfb.jpg',
+    category: 'Hyein',
+    star: false,
+  },
+];

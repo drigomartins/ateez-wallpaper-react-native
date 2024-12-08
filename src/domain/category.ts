@@ -1,7 +1,10 @@
 export type Category =
-  | 'Hanni'
-  | 'Haerin'
-  | 'Danielle'
-  | 'Hyein'
-  | 'Minji'
-  | 'NewJeans';
+  | 'Hongjoong'
+  | 'Seonghwa'
+  | 'Yunho'
+  | 'Yeosang'
+  | 'San'
+  | 'Mingi'
+  | 'Wooyoung'
+  | 'Jongho'
+  | 'Ateez';

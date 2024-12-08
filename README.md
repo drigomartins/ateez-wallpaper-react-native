@@ -1,4 +1,4 @@
-# NewJeans Wallpaper
+# Ateez Wallpaper
 
 **React Native, Expo, Typescript**
 

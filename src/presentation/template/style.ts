@@ -56,6 +56,6 @@ export const TitleView = styled.Text<Props>`
 export const PressableView = styled.Pressable``;
 
 export const LogoView = styled.Image<Props>`
-  width: 50px;
-  height: 50px;
+  width: 120px;
+  height: 18px;
 `;

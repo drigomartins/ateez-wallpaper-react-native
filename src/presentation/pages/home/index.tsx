@@ -97,7 +97,7 @@ export const Home: React.FC<Props> = ({ navigation }) => {
       <ContainerImageView>
         <ContentAds>
           <BannerAd
-            unitId={'ca-app-pub-6202074218659375/9413380269'}
+            unitId={'ca-app-pub-6202074218659375/9727184967'}
             size={BannerAdSize.ANCHORED_ADAPTIVE_BANNER}
             requestOptions={{
               requestNonPersonalizedAdsOnly: true,

@@ -1,16 +1,24 @@
 import { WallpaperItem } from '@/domain';
-import { hanni } from './hanni';
-import { haerin } from './haerin';
-import { danielle } from './danielle';
-import { hyein } from './hyein';
-import { minji } from './minji';
-import { newJeans } from './newjeans';
+
+import { hongjoong } from './hongjoong';
+import { seonghwa } from './seonghwa';
+import { yunho } from './yunho';
+import { yeosang } from './yeosang';
+import { san } from './san';
+import { mingi } from './mingi';
+import { wooyoung } from './wooyoung';
+import { jongho } from './jongho';
+import { ateez } from './ateez';
 
 export const wallpaperList: WallpaperItem[] = [
-  ...hanni,
-  ...haerin,
-  ...danielle,
-  ...hyein,
-  ...minji,
-  ...newJeans,
+  ...hongjoong,
+  ...seonghwa,
+  ...yunho,
+  ...yeosang,
+  ...san,
+  ...mingi,
+  ...wooyoung,
+  ...hongjoong,
+  ...jongho,
+  ...ateez,
 ];
